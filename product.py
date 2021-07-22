@@ -1,1 +1,3 @@
-ptint ("cola")
+print ("cola")
+print (coke)
+

@@ -1,3 +1,3 @@
 print ("cola")
-print (coke)
+print ("coke")
 
